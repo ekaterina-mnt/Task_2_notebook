@@ -7,11 +7,11 @@
 
 <p>Отредактировать файл .env:</p>
 DB_CONNECTION=mysql<br>
-DB_HOST=mysql //<br>
+DB_HOST=mysql<br>
 DB_PORT=3306<br>
-DB_DATABASE=homestead //<br>
-DB_USERNAME=homestead //<br>
-DB_PASSWORD=secret //<br><br>
+DB_DATABASE=homestead<br>
+DB_USERNAME=homestead<br>
+DB_PASSWORD=secret<br><br>
 
 <b>docker-compose build</b><br>
 <b>docker-compose up -d</b><br>
