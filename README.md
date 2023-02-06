@@ -18,6 +18,7 @@ DB_PASSWORD=secret<br><br>
 <b>docker-compose exec php php /var/www/html/artisan key:generate</b><br>
 <b>docker-compose exec php php /var/www/html/artisan optimize</b><br>
 <b>docker-compose exec php php /var/www/html/artisan migrate</b><br>
+<b>docker-compose exec php php /var/www/html/artisan storage:link</b><br>
 <b>docker-compose exec php php /var/www/html/artisan db:seed</b><br>
 
 И перейти: <b>http://localhost:8080/</b>
