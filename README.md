@@ -24,7 +24,7 @@ DB_PASSWORD=secret //<br><br>
 
 <h1>Само задание:</h1>
 
-![image](https://user-images.githubusercontent.com/112812361/216949947-1d4565e5-540a-4835-8970-2789a2bbd855.png)
+![image](https://user-images.githubusercontent.com/112812361/216950921-86ee3174-cb89-4fad-bd0e-6cc31910ada2.png)
 
 <br>
 <h1>Моя реализация:</h1>
