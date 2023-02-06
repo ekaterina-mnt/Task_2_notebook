@@ -32,10 +32,9 @@ DB_PASSWORD=secret<br><br>
 <p>(для объектов сидирования все данные определяются рандомно, а фото обновляется при каждом новом запуске программы)</p>
 
 ![image](https://user-images.githubusercontent.com/112812361/216951280-af2dbb37-ffb9-420d-b244-a13fb5363cf0.png)
-
 ![image](https://user-images.githubusercontent.com/112812361/216951410-a37a6189-6663-4dd1-8f4b-070ee9224f6e.png)
-
 ![image](https://user-images.githubusercontent.com/112812361/216952512-fcecb084-4a70-493e-a671-658c0d71867a.png)
-
 ![image](https://user-images.githubusercontent.com/112812361/216952638-d85922e2-5449-4e33-b048-35e6d2be8046.png)
+![image](https://user-images.githubusercontent.com/112812361/217028077-9fc5706b-8115-4eeb-94f0-faa96c091374.png)
+
 
